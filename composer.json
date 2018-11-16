@@ -24,6 +24,9 @@
     "require-dev": {
         "inpsyde/php-coding-standards": "@stable"
     },
+    "suggest": {
+        "inpsyde/config": "Common implementation of inpsyde/config-interface"
+    },
     "autoload": {
         "psr-4": {
             "Inpsyde\\Config\\": "src/"
