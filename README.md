@@ -1,4 +1,4 @@
-# Inpsyde Config Interface [![Latest Stable Version](https://poser.pugx.org/inpsyde/config-interface/v/stable?format=flat-square)](https://packagist.org/packages/inpsyde/config-interface) [![Build Status](https://img.shields.io/travis-ci/inpsyde/config-interface.svg?style=flat-square)](https://travis-ci.org/inpsyde/config-interface) [![License](https://poser.pugx.org/inpsyde/config-interface/license?format=flat-square)](https://packagist.org/packages/inpsyde/filter)
+# Inpsyde Config Interface [![Latest Stable Version](https://poser.pugx.org/inpsyde/config-interface/v/stable?format=flat-square)](https://packagist.org/packages/inpsyde/config-interface) [![Build Status](https://img.shields.io/travis-ci/inpsyde/config-interface.svg?style=flat-square)](https://travis-ci.org/inpsyde/config-interface) [![License](https://poser.pugx.org/inpsyde/config-interface/license?format=flat-square)](https://packagist.org/packages/inpsyde/config-interface)
 
 The package provides a standard interface for a common configuration value container.
 
