@@ -26,7 +26,7 @@ When it comes to more complex plugins you want to have a reliable and uniform wa
         public function has(string $key) : bool;
     }
 
-This interface reminds of PSR-11 and we considered to extend or simply use PRS-11 as interface but the documentation says that it is explicitly meant as common interface for [_dependency injection containers_](https://www.php-fig.org/psr/psr-11/).
+This interface reminds of PSR-11 and we considered to extend or simply use PSR-11 as interface but the documentation says that it is explicitly meant as common interface for [_dependency injection containers_](https://www.php-fig.org/psr/psr-11/).
 
 Also mixing up DI-Containers with config containers is not a good thing as both targeting different purposes.
 
